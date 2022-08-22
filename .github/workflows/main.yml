@@ -13,7 +13,7 @@ jobs:
       fail-fast: false
       matrix:
         projectPath:
-          - CITestProject
+          - 
         testMode:
           - playmode
           - editmode
