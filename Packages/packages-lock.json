@@ -1,5 +1,14 @@
 {
   "dependencies": {
+    "com.cloudkayaklabs.textcolormanager": {
+      "version": "https://github.com/TypingTrainer2/text-color-manager-package.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.textmeshpro": "3.0.6"
+      },
+      "hash": "52044724a880569b0648cebd5398ddf5b2471730"
+    },
     "com.unity.2d.animation": {
       "version": "5.0.10",
       "depth": 0,

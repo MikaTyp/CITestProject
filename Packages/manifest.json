@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.cloudkayaklabs.textcolormanager": "https://github.com/TypingTrainer2/text-color-manager-package.git",
     "com.unity.2d.animation": "5.0.10",
     "com.unity.2d.pixel-perfect": "4.0.1",
     "com.unity.2d.psdimporter": "4.1.3",
